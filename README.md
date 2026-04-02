@@ -4,6 +4,10 @@ Um projeto base para aprender **Integração Contínua (CI)** e **Entrega Contí
 
 ## Sobre o Projeto
 
+
+## Alunos 
+Daniel Olimpio, Leonardo Sudario
+
 Este repositório foi criado como base para um projeto educacional que aborda:
 
 - Controle de versão com Git
